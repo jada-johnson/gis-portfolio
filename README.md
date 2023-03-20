@@ -1,10 +1,10 @@
 # GIS-Portfolio
 This is my portfolio for the Advanced GIS course!
 
-#About Me
+## About Me
 
 
-#What I Hope to Learn
+## What I Hope to Learn
 
 
 # Portfolio
