@@ -15,3 +15,5 @@ Speaking of skills learned in this course, I hope to gain better knowledge on ho
 👷🏾‍♀️ U N D E R     C O N S T R U C T I O N 👷🏾‍♀️
 
 [Class Challenge: Pittsburgh Summer BrewFest 2023](https://jada-johnson.github.io/gis-portfolio/summerbrew)
+
+[Breakthrough Houston Customized Map](https://jada-johnson.github.io/gis-portfolio/BTHmap)
