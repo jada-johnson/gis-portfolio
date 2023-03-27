@@ -1,2 +1,2 @@
 
-![Breakthrough Houston Customized Map](BTHmap.txt)
+![Breakthrough Houston Customized Map](BTHmap.json)
