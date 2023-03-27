@@ -35,4 +35,4 @@ Here is a close up view of the map, which allows you to see how the color palett
 
 ### Design Choice Overview
 
-While the blue (Lochmara) and orange (Ecstasy) contrast each other very well, the brightness of the orange could be hard on the eyes as the details became more granular through zooming in. For this reason, I decided to
+While the blue (Lochmara) and orange (Ecstasy) contrast each other very well, the brightness of the orange could be hard on the eyes as the details became more granular through zooming in. For this reason, I decided to take the liberty of using a more muted blue and orange to hopefully eliminate strain on the eyes. Additionally, given too much detail, the colors began to clash, I began using gray to better outline certain labels to also make it easier on the eyes. Gray worked because it did not necessarily take away from the existing palette, and it matched most of the text on the company website, which uses gray instead of black.
