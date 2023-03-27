@@ -29,3 +29,9 @@ Here is a further zoomed in view of the map, which allows you to see how the col
 ![Map Screenshot #3](BTH Map 3_Screenshot.png)
 Here is a close up view of the map, which allows you to see how the color palette plays out nearly at street level.
 
+#### The Lookup Table
+
+![Lookup Table](Lookup Table.png)
+
+### Design Choice Overview
+While the blue (Loc and orange from the 
