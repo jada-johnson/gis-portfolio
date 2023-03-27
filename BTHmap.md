@@ -4,13 +4,20 @@ Breakthrough Houston (BTH) is an educational program with the aim of placing mot
 
 ## The Bid
 
+
 ## The Customized Map and Its Components
 
 
 [Breakthrough Houston Customized Map](BTHmap.json)
+Using Google Styling Wizard, I created a customized map using 
 
 ![Map Screenshot](BTH Map 1_Screenshot.png)
 
+Here is a further zoomed out view of the map, which allows you to see how the color palette plays out a larger scale.
+
 ![Map Screenshot #2](BTH Map 2_Screenshot.png)
+Here is a further zoomed in view of the map, which allows you to see how the color palette plays out a smaller scale.
 
 ![Map Screenshot #3](BTH Map 3_Screenshot.png)
+Here is a close up view of the map, which allows you to see how the color palette plays out nearly at street level.
+
