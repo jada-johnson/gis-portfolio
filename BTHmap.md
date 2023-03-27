@@ -34,4 +34,5 @@ Here is a close up view of the map, which allows you to see how the color palett
 ![Lookup Table](Lookup Table.png)
 
 ### Design Choice Overview
-While the blue (Loc and orange from the 
+
+While the blue (Lochmara) and orange (Ecstasy) contrast each other very well, the brightness of the orange could be hard on the eyes as the details became more granular through zooming in. For this reason, I decided to
