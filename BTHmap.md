@@ -5,11 +5,19 @@ Breakthrough Houston (BTH) is an educational program with the aim of placing mot
 ## The Bid
 ![The Bid](BTHbid.png)
 
-## The Customized Map and Its Components
+## The Customized Map Style and Its Components
 
+### The Map Style Breakdown
 
-[Breakthrough Houston Customized Map](BTHmap.json)
-Using Google Styling Wizard, I created a customized map using 
+Using Breakthrough Houston's logo, I gathered a color palette using Canva's Color Paletter Generator. In the following image, you'll see which hex codes were the output for BTH.
+
+![Color Palette](Hex Codes_BTH.png)
+
+Using Google Styling Wizard, I using the hex codes gathered from their logo and build out their customizable map. The JSON Code Sample is linked here:
+
+[Breakthrough Houston Customized Map Style](BTHmap.json)
+
+### The Map Style
 
 ![Map Screenshot](BTH Map 1_Screenshot.png)
 
