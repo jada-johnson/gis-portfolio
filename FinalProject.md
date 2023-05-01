@@ -17,21 +17,23 @@ variables include housing vacancies, property ownership status, housing age, hou
 It is safe to assume that with LD infections occurring drastically more often for Black Americans whose homes are overwhelmingly older and systemically overlooked, their unhealthy built environment is enough reason to consider LD an environmental justice issue. The lack of proper maintenance of water distribution systems that provide hundreds of thousands of BIPOC community members with such a vital resource should not be a threat, rather a safe system that community members can rely on irrespective of race or socioeconomic status.
 How IDEXX Can Help
 
-•	Identifying where their product is needed the most will be key for not only the improvement in quality of life for many people across the country but also the company’s profit.
+Identifying where their product is needed the most will be key for not only the improvement in quality of life for many people across the country but also the company’s profit.
 
 GIS Project Summary
-•	Create a map that identifies Legionnaire’s Disease hotspots over the last two years.
-          •	This will serve as a baseline. 
-          • To better substantiate how LD is an environmental justice issue, include census tract racial demographic data as a feature layer, to show which groups are likely experiencing outbreaks more often.
-•	Create a spreadsheet with outbreak locations that the team can constantly update and geocode into the map.
-•	Teach team members how to update map (if time allows it)
+
+Create a map that identifies Legionnaire’s Disease hotspots over the last two years.
+	- This will serve as a baseline. 
+        - To better substantiate how LD is an environmental justice issue, include census tract racial demographic data as a feature layer, to show which groups are likely experiencing outbreaks more often.
+Create a spreadsheet with outbreak locations that the team can constantly update and geocode into the map.
+	- Teach team members how to update map (if time allows it)
 
 Workplan
 Data Collection
-•	Review initial data collected in Summer of 2022
-          • Update data through April 2022
-	        • Compile information into spreadsheet.
+- Review initial data collected in Summer of 2022
+	- Update data through April 2022
+- Compile information into spreadsheet.
+
 Map Creation
-•	Use data to create a Felt Map, especially given that ArcGIS Pro is not a resource in that the Regulatory Affairs team can fit into their budget.
-          •	Spend some time familiarizing myself with the platform.
-          • Input data and see how to best visualize different elements of the problem.
+- Use data to create a Felt Map, especially given that ArcGIS Pro is not a resource in that the Regulatory Affairs team can fit into their budget. 
+	- Spend some time familiarizing myself with the platform.
+	- Input data and see how to best visualize different elements of the problem.
