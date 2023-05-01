@@ -42,7 +42,7 @@ Create a spreadsheet with outbreak locations that the team can constantly update
 
 <iframe width="100%" height="600" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Untitled-Map-UyC0Ex9B5RBuX5fPZz0BV1A?lat=32.054385&lon=-94.123685&zoom=3.59"></iframe>
 
-Felt was a great alternative to use, and in realizing how intuitive the platform is, I do think that the IDEXX Regulatory Affairs team could find such a map incredibly useful. It was incredibly easy to add a US Counties layer, and customizing the map to make it as simple as possible was also quite the easy feat. The most difficult, or time-consuming, task of this project actually happened in the data collection phase given the lack of centraliziation on Legionnaire's Disease outbreaks. I spent significantly more time on this than I had anticipated, which you can see below.
+Felt was a great alternative to use, and in realizing how intuitive the platform is, I do think that the IDEXX Regulatory Affairs team could find such a map incredibly useful. It was incredibly easy to add a US Counties layer, and customizing the map to make it as simple as possible was also quite the easy feat. The most difficult, or time-consuming, task of this project actually happened in the data collection phase given the lack of centraliziation on Legionnaire's Disease outbreaks. I spent significantly more time on this than I had anticipated, which you can see below:
 
 ![Deliverables & Pricing Original Estimate](pricing.png)
 
@@ -50,6 +50,9 @@ The initial "RFP" stated that I would spend three hours ($300) on data collectio
 
 The excel with the data can be seen here: 
 ![Excel Screenshot](excelsheet.png)
+
+Most of the data was collected from the [HC info site](https://hcinfo.com/about/outbreaks/recent/) that keeps an udpated; however, for each outbreak, I then had to corroborate the short blurbs with greater detail to pinpoint the location of the outbreak. In terms of IDEXX continuing this work, as long they are able to at least upkeep county level data in a running spreadsheet, all their team would have to do is upload that sheet to Felt, which intuitively handles the rest. As they go before state level goverment to lobby for better legionella pneumophila testing as a means of overcoming environmental injustce, they can continue to look at the corellation between outbreak incidence and racial demographics be simply looking up county census data.
+
 
 ## [ArcGIS Map with Hot Spot Analysis](https://carnegiemellon.maps.arcgis.com/home/item.html?id=20bff5ab194c447abd19a360baf1e490)
 In realizing that some of the more advanced tools needed to analyze the data were not available on Felt just yet, I still wanted to upload the data into ArcGIS to use the Hot Spot Analysis tool. Given the widespread occurance of the disease, each outbreak showed as a "hot spot," which was to be expected, but the areas in between did not even fall into confidence intervals to be considered "cold spots."
