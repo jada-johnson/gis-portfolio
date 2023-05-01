@@ -29,8 +29,8 @@ Create a spreadsheet with outbreak locations that the team can constantly update
 
 ### Workplan
 **Data Collection**
-- Review initial data collected in Summer of 2022
-	- Update data through April 2022
+- Review initial data collected in Summer of 2021
+	- Update data through April 2023
 - Compile information into spreadsheet.
 
 **Map Creation**
