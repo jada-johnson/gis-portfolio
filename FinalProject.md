@@ -36,3 +36,9 @@ Create a spreadsheet with outbreak locations that the team can constantly update
 - Use data to create a Felt Map, especially given that ArcGIS Pro is not a resource in that the Regulatory Affairs team can fit into their budget. 
 	- Spend some time familiarizing myself with the platform.
 	- Input data and see how to best visualize different elements of the problem.
+
+## Felt Map
+
+<iframe width="100%" height="600" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Untitled-Map-UyC0Ex9B5RBuX5fPZz0BV1A?lat=32.054385&lon=-94.123685&zoom=3.59"></iframe>
+
+## [ArcGIS Map with Hot Spot Analysis](https://carnegiemellon.maps.arcgis.com/home/item.html?id=20bff5ab194c447abd19a360baf1e490)
