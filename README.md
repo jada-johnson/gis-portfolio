@@ -14,11 +14,13 @@ Speaking of skills learned in this course, I hope to gain better knowledge on ho
 
 👷🏾‍♀️ U N D E R     C O N S T R U C T I O N 👷🏾‍♀️
 
-[Class Challenge: Pittsburgh Summer BrewFest 2023](https://jada-johnson.github.io/gis-portfolio/summerbrew)
+### [Class Challenge: Pittsburgh Summer BrewFest 2023](https://jada-johnson.github.io/gis-portfolio/summerbrew)
 
-[Breakthrough Houston Customized Map](https://jada-johnson.github.io/gis-portfolio/BTHmap)
+### [Breakthrough Houston Customized Map](https://jada-johnson.github.io/gis-portfolio/BTHmap)
 
 
 ### In-Class Felt Map Exercise
 
 <iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Untitled-Map-SNlJI6DFSzix9BSPKGTP22B?lat=40.438959&lon=-79.903209&zoom=12.33"></iframe> 
+
+### [Final Project]
