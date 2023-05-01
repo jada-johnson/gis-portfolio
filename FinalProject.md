@@ -44,12 +44,12 @@ Create a spreadsheet with outbreak locations that the team can constantly update
 
 Felt was a great alternative to use, and in realizing how intuitive the platform is, I do think that the IDEXX Regulatory Affairs team could find such a map incredibly useful. It was incredibly easy to add a US Counties layer, and customizing the map to make it as simple as possible was also quite the easy feat. The most difficult, or time-consuming, task of this project actually happened in the data collection phase given the lack of centraliziation on Legionnaire's Disease outbreaks. I spent significantly more time on this than I had anticipated, which you can see below.
 
-[Deliverables & Pricing Original Estimate](pricing.png)
+![Deliverables & Pricing Original Estimate](pricing.png)
 
 The initial "RFP" stated that I would spend three hours ($300) on data collection, when in truth, I spent nearly 11 hours on that portion alone. The map creation on Felt and ArcGIS took less time than that portion alone. When you check my process log, you can see that I actually spend almost 11 hours on data collection alone, and the map and Github write-up portion was the final bit of work at about seven additional hours. In total, if I had stuck to this pricing outline, I would have been significantly underpaid, and much of the mapping work, which was the deliverable, would have happened beyond what I had initially billed IDEXX.
 
 The excel with the data can be seen here: 
-[Excel Screenshot](excelsheet.png)
+![Excel Screenshot](excelsheet.png)
 
 ## [ArcGIS Map with Hot Spot Analysis](https://carnegiemellon.maps.arcgis.com/home/item.html?id=20bff5ab194c447abd19a360baf1e490)
 In realizing that some of the more advanced tools needed to analyze the data were not available on Felt just yet, I still wanted to upload the data into ArcGIS to use the Hot Spot Analysis tool. Given the widespread occurance of the disease, each outbreak showed as a "hot spot," which was to be expected, but the areas in between did not even fall into confidence intervals to be considered "cold spots."
